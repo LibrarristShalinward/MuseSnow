@@ -1,0 +1,12 @@
+time: 
+  fall: 8.
+  melt_g: 20.
+
+screen: 
+  height: 1080
+  width: 1920
+
+sigma: 
+  vy_mul: .1
+  vx: .5
+  mg: .4
